@@ -1,0 +1,29 @@
+body{
+    font-size: 40px;
+    font-family: 'Amatic SC', cursive;
+
+}
+
+header{
+    text-align: center;
+    font-size: 50px; 
+    font-weight: bold;
+    position: relative;
+    bottom: 1400px;
+    right: 10px;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+    bottom: 1400px;
+    right: 10px;
+}
+
+img{
+
+    height: 100%;
+    width: 100%; 
+     
+}
